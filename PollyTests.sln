@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyConsoleTests", "PollyConsoleTests\PollyConsoleTests.csproj", "{C84428A3-89CB-46CF-A68E-F3A607DC592D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyWebApi", "DummyWebApi\DummyWebApi.csproj", "{B3B89467-B442-44F9-A6E6-2645B88EC997}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C84428A3-89CB-46CF-A68E-F3A607DC592D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C84428A3-89CB-46CF-A68E-F3A607DC592D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C84428A3-89CB-46CF-A68E-F3A607DC592D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B89467-B442-44F9-A6E6-2645B88EC997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B89467-B442-44F9-A6E6-2645B88EC997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B89467-B442-44F9-A6E6-2645B88EC997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B89467-B442-44F9-A6E6-2645B88EC997}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
